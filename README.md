@@ -12,15 +12,6 @@ Users can browse trending movies, search by title, explore detailed movie inform
 
 ---
 
-## 📸 Preview
-
-> Screenshots will be added after deployment.
-
-| Home | Movie Details |
-|------|---------------|
-| Home Page Screenshot | Movie Details Screenshot |
-
----
 
 ## ✨ Features
 
