@@ -52,7 +52,7 @@ transition-all overflow-hidden pb-2">
         </div>
 
     </Link>
-<div><button className="mr-10"
+<div><button className="mr-0"
         onClick={handleFavorite}
     >
         {isFavorite ? (
