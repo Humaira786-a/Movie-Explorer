@@ -52,7 +52,7 @@ transition-all overflow-hidden pb-2">
         </div>
 
     </Link>
-<div  className="flex justify-end"><button className=""
+<div  className="flex justify-end pr-3"><button className=""
         onClick={handleFavorite}
     >
         {isFavorite ? (
