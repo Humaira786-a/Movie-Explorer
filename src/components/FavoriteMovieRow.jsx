@@ -36,7 +36,7 @@ function FavoriteMovieRow({ movie }) {
 
                 <div>
 
-                    <h2 className="text-white text-xl font-semibold">
+                    <h2 className="text-black text-xl font-semibold dark:white">
                         {movie.title}
                     </h2>
 
