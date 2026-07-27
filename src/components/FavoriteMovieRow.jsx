@@ -13,11 +13,12 @@ function FavoriteMovieRow({ movie }) {
             flex
             items-center
             justify-between
-            bg-gray-900
+            bg-gray-100
             rounded-xl
             p-4
             mb-4
             dark:shadow-black/40
+            dark:bg-gray-900
             "
         >
 
